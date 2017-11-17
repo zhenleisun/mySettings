@@ -52,7 +52,7 @@ filetype plugin indent on    " required
 """" you complete me """"""
 let g:ycm_autoclose_preview_window_after_completion=1
 let g:ycm_confirm_extra_conf=0
-let g:ycm_global_ycm_extra_conf = '/Users/zhenlei_sun/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
+let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
 
 " for ycms
 let g:ycm_error_symbol = '>>'
